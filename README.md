@@ -8,7 +8,7 @@ This work proposed a novel framework designed on top of authoritative sleep medi
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://github.com/chenzRG/TNSRE_23/assets/125750017/14ffafb7-6832-459a-a31c-87a5c314c7f6)  |  ![](https://github.com/chenzRG/TNSRE_23/assets/125750017/9b2d638f-d78c-48c7-acda-82e1fd6c505f)
+![alt text](https://github.com/chenzRG/TNSRE_23/assets/125750017/cf865ab2-f0ae-4854-942c-3ff95d3db0c0)  |  ![alt text](https://github.com/chenzRG/TNSRE_23/assets/125750017/9b2d638f-d78c-48c7-acda-82e1fd6c505f)
 
 
 ![alt text](https://github.com/chenzRG/TNSRE_23/assets/125750017/14ffafb7-6832-459a-a31c-87a5c314c7f6)
@@ -17,6 +17,8 @@ Solarized dark             |  Solarized Ocean
 Fequencey-band-time-index visualization resutls [2],[3].
 
 ![alt text](https://user-images.githubusercontent.com/34312998/133877630-9b2f2eec-11e0-4d41-8c36-5afd02dd78d6.png)
+
+<img width="892" alt="image" src="https://github.com/chenzRG/TNSRE_23/assets/125750017/cf865ab2-f0ae-4854-942c-3ff95d3db0c0">
 
 
 
