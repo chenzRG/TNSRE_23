@@ -12,7 +12,7 @@ System overview             |  Time-frequency patching
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/chenzRG/TNSRE_23/assets/125750017/cf865ab2-f0ae-4854-942c-3ff95d3db0c0)  | <img width="1200" alt="image" src="https://github.com/chenzRG/TNSRE_23/assets/125750017/8b2ab0c7-f696-4b06-a30f-e04774f11153">
 
-Fequencey-band-time-index visualization resutls [2],[3].
+Fequencey-band-time-index visualization resutls [1],[2].
 
 <p align="center">
 <img width="900" alt="image" src="https://user-images.githubusercontent.com/34312998/133877630-9b2f2eec-11e0-4d41-8c36-5afd02dd78d6.png">
@@ -41,8 +41,12 @@ _Model_#_xxxxx_ presents the ablations in different architecture.
 
 ## Reference
 
-[1] Z. Chen, K. Odani, P. Gao, N. Ono, M. Altaf-Ul-Amin, S. Kanaya, and M. Huang, “Feasibility analysis of transformer model for eeg-based sleep scoring,” in 2021 IEEE International Conference on Biomedical and Health Informatics, Virtual, July 2021.
+[1] H. Chefer, S. Gur, and L. Wolf, “Generic attention-model explainability for interpreting bi-modal and encoder-decoder transformers,” CoRR, vol. abs/2103.15679, 2021. [Online]. Available: https://arxiv.org/abs/2103.15679
 
-[2] H. Chefer, S. Gur, and L. Wolf, “Generic attention-model explainability for interpreting bi-modal and encoder-decoder transformers,” CoRR, vol. abs/2103.15679, 2021. [Online]. Available: https://arxiv.org/abs/2103.15679
+[2] Hila Chefer, Shir Gur, Lior Wolf, “Transformer interpretability beyond attention visualization,” arXiv preprint arXiv:2012.09838, 2020.
 
-[3] Hila Chefer, Shir Gur, Lior Wolf, “Transformer interpretability beyond attention visualization,” arXiv preprint arXiv:2012.09838, 2020.
+## Citation
+
+[1] H. Chefer, S. Gur, and L. Wolf, “Generic attention-model explainability for interpreting bi-modal and encoder-decoder transformers,” CoRR, vol. abs/2103.15679, 2021. [Online]. Available: https://arxiv.org/abs/2103.15679
+
+
