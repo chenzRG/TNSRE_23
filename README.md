@@ -3,11 +3,10 @@
 
 Zheng Chen, Ziwei Yang, Lingwei Zhu, Wei Chen, Toshiyo Tamura, Naoaki Ono, MD Altaf-Ul-Amin, Shigehiko Kanaya and Ming Huang
 
-
-This work proposed a novel framework designed on top of authoritative sleep medicine guidance that can automatically capture the time-frequency nature of sleep electroencephalogram (EEG) signals and make staging decisions.
-
+Stage-based sleep screening is a widely-used tool in both healthcare and neuroscientific research, as it allows for the accurate assessment of sleep patterns and stages. In this paper, we propose a novel framework that is based on authoritative guidance in sleep medicine and is designed to automatically capture the time-frequency characteristics of sleep electroencephalogram (EEG) signals in order to make staging decisions. Our framework consists of two main phases: a feature extraction process that partitions the input EEG spectrograms into a sequence of time-frequency patches, and a staging phase that searches for correlations between the extracted features and the defining characteristics of sleep stages. To model the staging phase, we utilize a Transformer model with an attention-based module, which allows for the extraction of global contextual relevance among time-frequency patches and the use of this relevance for staging decisions. The proposed method is validated on the large-scale Sleep Heart Health Study dataset and achieves new state-of-the-art results for the wake, N2, and N3 stages, with respective F1 scores of 0.93, 0.88, and 0.87 using only EEG signals. Our method also demonstrates high inter-rater reliability, with a kappa score of 0.80. Moreover, we provide visualizations of the correspondence between sleep staging decisions and features extracted by our method, which enhances the interpretability of the proposal. Overall, our work represents a significant contribution to the field of automated sleep staging and has important implications for both healthcare and neuroscience research.
 
 ---------------------------------------------------------------------------------------------------------------------
+
 
 System overview             |  Time-frequency patching
 :-------------------------:|:-------------------------:
