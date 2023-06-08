@@ -1,5 +1,5 @@
-# TNSRE_23
-Automated Sleep Staging via Parallel Frequency-Cut Attention
+# IEEE TNSRE_23
+[Automated Sleep Staging via Parallel Frequency-Cut Attention](https://ieeexplore.ieee.org/abstract/document/10041186)
 
 Zheng Chen, Ziwei Yang, Lingwei Zhu, Wei Chen, Toshiyo Tamura, Naoaki Ono, MD Altaf-Ul-Amin, Shigehiko Kanaya and Ming Huang
 
