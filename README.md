@@ -15,7 +15,7 @@ System overview             |  Time-frequency patching
 Fequencey-band-time-index visualization resutls [2],[3].
 
 <p align="center">
-<img width="1200" alt="image" src="https://user-images.githubusercontent.com/34312998/133877630-9b2f2eec-11e0-4d41-8c36-5afd02dd78d6.png">
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/34312998/133877630-9b2f2eec-11e0-4d41-8c36-5afd02dd78d6.png">
 </p>
 
 
