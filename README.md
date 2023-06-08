@@ -52,7 +52,7 @@ python main.py
 [2] Hila Chefer, Shir Gur, Lior Wolf, “Transformer interpretability beyond attention visualization,” arXiv preprint arXiv:2012.09838, 2020.
 
 ## Citation
-**cite** contains the implementation for our [paper](https://ieeexplore.ieee.org/abstract/document/10041186).  If you find this code useful in your research, please consider citing:
+If you find this code useful in your research, please consider citing:
 
     @ARTICLE{TNSREchen23,
   	author={Chen, Zheng and Yang, Ziwei and Zhu, Lingwei and Chen, Wei and Tamura, Toshiyo and Ono, Naoaki and Altaf-Ul-Amin, Md and Kanaya, Shigehiko and Huang, Ming},
