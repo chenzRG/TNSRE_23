@@ -47,15 +47,17 @@ python main.py
 
 [2] Hila Chefer, Shir Gur, Lior Wolf, “Transformer interpretability beyond attention visualization,” arXiv preprint arXiv:2012.09838, 2020.
 
-**cite** contains a Tensorflow implementation for our [paper](https://arxiv.org/abs/1711.08389).  If you find this code useful in your research, please consider citing:
+## Citation
+**cite** contains the implementation for our [paper](https://ieeexplore.ieee.org/abstract/document/10041186).  If you find this code useful in your research, please consider citing:
 
-    @inproceedings{plummerCITE2018,
-	Author = {Bryan A. Plummer and Paige Kordas and M. Hadi Kiapour and Shuai Zheng and Robinson Piramuthu and Svetlana Lazebnik},
-	Title = {Conditional Image-Text Embedding Networks},
-	Booktitle  = {The European Conference on Computer Vision (ECCV)},
-	Year = {2018}
-    }
+    @ARTICLE{TNSREchen23,
+  	author={Chen, Zheng and Yang, Ziwei and Zhu, Lingwei and Chen, Wei and Tamura, Toshiyo and Ono, Naoaki and Altaf-Ul-Amin, Md and Kanaya, Shigehiko and Huang, Ming},
+	  journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering}, 
+	  title={Automated Sleep Staging via Parallel Frequency-Cut Attention}, 
+	  year={2023},
+	  volume={31},
+	  pages={1974-1985}
+  	}
 
-This code was tested on an Ubuntu 16.04 system using Tensorflow 1.2.1.
 
 
