@@ -44,6 +44,7 @@ python main.py
 <model_checkpoint.pth>
 ```
 
+You can set up different hyperparameters by --args.xx in _main.py_.
 
 ## Reference
 
