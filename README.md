@@ -39,6 +39,12 @@ Gradient-attention-based visualization has shown in _Vit_visualization.ipynb_.
 
 _Model_#_xxxxx_ presents the ablations in different architecture.
 
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+
 ## Reference
 
 [1] H. Chefer, S. Gur, and L. Wolf, “Generic attention-model explainability for interpreting bi-modal and encoder-decoder transformers,” CoRR, vol. abs/2103.15679, 2021. [Online]. Available: https://arxiv.org/abs/2103.15679
