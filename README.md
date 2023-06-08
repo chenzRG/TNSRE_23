@@ -47,8 +47,15 @@ python main.py
 
 [2] Hila Chefer, Shir Gur, Lior Wolf, “Transformer interpretability beyond attention visualization,” arXiv preprint arXiv:2012.09838, 2020.
 
-## Citation
+**cite** contains a Tensorflow implementation for our [paper](https://arxiv.org/abs/1711.08389).  If you find this code useful in your research, please consider citing:
 
-[1] H. Chefer, S. Gur, and L. Wolf, “Generic attention-model explainability for interpreting bi-modal and encoder-decoder transformers,” CoRR, vol. abs/2103.15679, 2021. [Online]. Available: https://arxiv.org/abs/2103.15679
+    @inproceedings{plummerCITE2018,
+	Author = {Bryan A. Plummer and Paige Kordas and M. Hadi Kiapour and Shuai Zheng and Robinson Piramuthu and Svetlana Lazebnik},
+	Title = {Conditional Image-Text Embedding Networks},
+	Booktitle  = {The European Conference on Computer Vision (ECCV)},
+	Year = {2018}
+    }
+
+This code was tested on an Ubuntu 16.04 system using Tensorflow 1.2.1.
 
 
