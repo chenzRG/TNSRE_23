@@ -31,17 +31,13 @@ pip install -r requirements.txt
 
 If you're using other than CUDA 10.2, you may need to install PyTorch for the proper version of CUDA. See [instructions](https://pytorch.org/get-started/locally/) for more details.
 
-## Description
-
-The proposed methods can be found in _Model_EEGspec-VTrans.ipynb.ipynb_ and _Model_EEGspec-Seq-VTrans.ipynb_.
-
-Gradient-attention-based visualization has shown in _Vit_visualization.ipynb_.
-
-_Model_#_xxxxx_ presents the ablations in different architecture.
+## Training
 
 ```python
-s = "Python syntax highlighting"
-print s
+python main.py 
+--epochs=xx
+--dic_name <path/to/model_checkpoint> 
+<model_checkpoint.pth>
 ```
 
 
