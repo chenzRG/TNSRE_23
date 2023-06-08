@@ -7,8 +7,8 @@ Zheng Chen, Ziwei Yang, Lingwei Zhu, Wei Chen, Toshiyo Tamura, Naoaki Ono, MD Al
 This work proposed a novel framework designed on top of authoritative sleep medicine guidance that can automatically capture the time-frequency nature of sleep electroencephalogram (EEG) signals and make staging decisions.
 
 
-![alt text]<img width="1044" alt="image" src="https://github.com/chenzRG/TNSRE_23/assets/125750017/14ffafb7-6832-459a-a31c-87a5c314c7f6">
-
+![alt text]("image" src="https://github.com/chenzRG/TNSRE_23/assets/125750017/14ffafb7-6832-459a-a31c-87a5c314c7f6")
+<img width="1044" alt="image" src="https://github.com/chenzRG/TNSRE_23/assets/125750017/14ffafb7-6832-459a-a31c-87a5c314c7f6">
 
 
 
