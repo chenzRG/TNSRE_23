@@ -9,8 +9,7 @@ This work proposed a novel framework designed on top of authoritative sleep medi
 
 ![alt text](https://github.com/chenzRG/TNSRE_23/assets/125750017/14ffafb7-6832-459a-a31c-87a5c314c7f6)
 
-![alt text]<img src="https://github.com/chenzRG/TNSRE_23/assets/125750017/14ffafb7-6832-459a-a31c-87a5c314c7f6" width="50%" height="50%">
-
+<img width="1137" alt="image" src="https://github.com/chenzRG/TNSRE_23/assets/125750017/9b2d638f-d78c-48c7-acda-82e1fd6c505f">
 
 Fequencey-band-time-index visualization resutls [2],[3].
 
