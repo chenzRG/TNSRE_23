@@ -61,8 +61,7 @@ If you find this code useful in your research, please consider citing:
   	title={Automated Sleep Staging via Parallel Frequency-Cut Attention}, 
   	year={2023},
   	volume={31},
-  	pages={1974-1985},
-  }
+  	pages={1974-1985}}
 
 
 
